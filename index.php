@@ -5,8 +5,8 @@
     </head>
     <body>
         <?php
-            $x = 3.4;
-            echo (int)$x;             
+            $x = 67;
+            echo $x;         
         ?>
     </body>
 </html>
